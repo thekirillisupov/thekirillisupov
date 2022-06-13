@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thekirillisupov
 - 👀 I’m interested in DS, BI, Al, Algo Trading
-- 🌱 I’m currently learning algorithm.
+- 🌱 I’m currently learning DL
 - 💞️ I’m looking to collaborate on DS project.
 - 📫 How to reach me thekirillisupov@gmail.com
 
