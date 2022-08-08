@@ -1,7 +1,6 @@
 ## Isupov Kirill - Research Adviser at SBS Consulting
   * Cryptography specialist 
   * AI Masters 2021-2023
-  * Yandex School of Data Analysis
 
 ## Significant repos
   * [Liquidity management][1]
