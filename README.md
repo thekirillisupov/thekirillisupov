@@ -6,9 +6,11 @@
 ## Significant repos
   * [Liquidity management][1]
   * [Credit default prediction][2]
+  * [ARIMA, GARCH][3]
   
 [1]: https://github.com/thekirillisupov/liquidity-management2
 [2]: https://github.com/thekirillisupov/AlfaPetProject
+[3]: https://github.com/thekirillisupov/ARIMA-GARCH
 
 <!---
 thekirillisupov/thekirillisupov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
