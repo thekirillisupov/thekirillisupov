@@ -1,4 +1,4 @@
-## Isupov Kirill - Research Adviser at SBS Consulting
+## Isupov Kirill - Research Adviser 
   * Cryptography specialist 
   * AI Masters 2021-2023
 
