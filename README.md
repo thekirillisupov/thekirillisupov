@@ -3,8 +3,13 @@
   * AI Masters 2021-2023
 
 ## Significant repos
-  * [Liquidity management][1]
   * [Credit default prediction][2]
+  * [Liquidity management][1]
+
+## Kaggle notebooks   
+
+## Interesting repos
+
 <!---
   * [ARIMA, GARCH][3]
 --->
