@@ -1,4 +1,4 @@
-## Isupov Kirill - Research Adviser / Data Sientist
+## Isupov Kirill - Data Sientist
   * AI Masters 2021-2023
 
 ## Significant repos
