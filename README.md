@@ -1,5 +1,4 @@
-## Isupov Kirill - Research Adviser 
-  * Cryptography specialist 
+## Isupov Kirill - Research Adviser / Data Sientist
   * AI Masters 2021-2023
 
 ## Significant repos
