@@ -1,5 +1,5 @@
 ## Isupov Kirill - Data Sientist
-  * AI Masters 2021-2023
+  * AI Masters 
 
 ## Significant repos
   * [Credit default prediction][2]
