@@ -1,8 +1,9 @@
-## Isupov Kirill - Senior Data Sientist
-  * Ranking NLP/LLM specialist
+## Isupov Kirill - Senior Data Scientist
+  * ranking NLP/LLM
 
-Link to telegram channel[https://t.me/isupovflipscoin]
-Link to Kaggle profile[https://www.kaggle.com/bukovski]
+[Link to telegram channel](https://t.me/isupovflipscoin)
+
+[Link to Kaggle profile](https://www.kaggle.com/bukovski)
 
 <!---
 thekirillisupov/thekirillisupov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
